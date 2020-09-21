@@ -6,7 +6,7 @@ from typing import List
 
 
 def convert_to_absolute() -> float:
-    number = int(input("nombre"))
+    number = int(input("entrez un nombre"))
     return abs(number)
     
 
