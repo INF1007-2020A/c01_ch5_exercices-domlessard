@@ -7,8 +7,7 @@ from typing import List
 
 def convert_to_absolute() -> float:
     number = int.input("nombre")
-    number = abs(number)
-    return number
+    return abs(number)
 
 
 def use_prefixes() -> List[str]:
