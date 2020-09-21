@@ -7,7 +7,7 @@ from typing import List
 
 def convert_to_absolute() -> float:
     input(number)
-    abs
+    abs(number)
     return 0.0
 
 
